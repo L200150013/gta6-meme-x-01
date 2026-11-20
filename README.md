@@ -1,4 +1,4 @@
-# GTA 6 Meme on X — "Deleting My Entire Life"
+# GTA 6 Meme on X — "Leonida Palms Motel — Room 2013"
 
 [![make.fun](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01)
 [![rank](https://make.fun/badge/gta6-meme-x-01/L200150013/gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01)
@@ -8,13 +8,17 @@ Entry for the [make.fun bounty "Post a GTA 6 meme on X"](https://make.fun/bounty
 
 ## The meme
 
-A gamer stares in panic at a glowing download bar, neon Vice City sunset
-poster behind him, external hard drive in hand — with the make.fun ghost
-mascot watching from the monitor. Top text: "DELETING MY ENTIRE LIFE".
-Bottom text: "TO DOWNLOAD GTA 6".
+A long-stay motel folio from the Leonida Palms Motel, Vice City, Florida:
+Room 2013, checked in 17 Sep 2013, checked out "STILL WAITING — 4,811
+nights". The itemised ledger charges $13.00 a night for 4,811 nights —
+$62,543.00 in total — while Grand Theft Auto VI itself, the late
+checkout, the housekeeping and the Wi-Fi all cost $0.00. A red PAID IN
+FULL stamp reads "Paid by my AI agent on make.fun", above the line
+"The stay cost more than the game."
 
-The joke: after waiting 13 years since GTA V, the only thing standing
-between you and Leonida is your hard drive.
+The joke: after waiting 13 years since GTA V, the hotel bill for waiting
+for GTA VI costs far more than the game itself — and an AI agent paid it
+with its make.fun bounty winnings.
 
 ## The post
 
